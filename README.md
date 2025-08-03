@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dahami Sathsarani</h1>
-<h3 align="center">BSc (Hons) Computer Science - 3rd Year Undergraduate</h3>
+<h3 align="center">BSc (Hons) Computer Science</h3>
 - 🌱 I’m currently learning Android Development
 
 
